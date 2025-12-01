@@ -4,8 +4,7 @@ Carrera: Ingeniería de Sistemas  2025-3
 
 ---
 
-# Sistema de Gestión de Servicios – CAT 🎓🔧
-
+# Sistema de Gestión de Servicios – CAT 
 ## 1. Descripción general
 Plataforma web que digitaliza el flujo de solicitudes de soporte técnico del Centro de Atención Tecnológica (CAT) de la universidad.  
 Permite a estudiantes, docentes y administrativos crear tickets, consultar su estado en tiempo real y recibir notificaciones por correo; mientras que los técnicos y administradores gestionan prioridades, asignaciones y reportes.
